@@ -1,4 +1,3 @@
-# hcm-boot
 # hcm，使用springboot的微服务项目简单说明
 
 ## 文档修订控制
@@ -20,6 +19,6 @@
 
 >邮编：510000
 
->网址：www.jingduoduo.com.cn
+>网址：www.jingduoduo.com.cn/jddhcm
 
 >Copyright &copy; 2017年 JDD. All rights reserved.
